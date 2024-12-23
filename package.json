@@ -16,8 +16,7 @@
     "protocol"
   ],
   "scripts": {
-    "start": "node index.js",
-    "install": "node install.js"
+    "start": "node index.js"
   },
   "author": "seezaara",
   "license": "MIT",
